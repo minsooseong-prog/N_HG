@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0001",
+    "name": "예시: 랫 풀다운 (Lat Pulldown)",
+    "equipment": "cable",
+    "target": "lats",
+    "muscle_group": "back",
+    "secondary_muscles": ["biceps", "rear deltoids"],
+    "body_part": "back",
+    "category": "strength"
+  }
+]

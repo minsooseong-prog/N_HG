@@ -1,0 +1,13 @@
+{
+  "name": "gym-equipment-chatbot",
+  "version": "1.0.0",
+  "description": "헬스 기구 챗봇 - Gemini Vision 기반 (Vercel 배포용)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
